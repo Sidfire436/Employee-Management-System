@@ -1,0 +1,8 @@
+{
+    "table": {
+        "profile_image": "profile_image",
+        "employee_name": "employee_name",
+        "employee_age": "employee_age",
+        "employee_salary": "employee_salary"
+    }
+}

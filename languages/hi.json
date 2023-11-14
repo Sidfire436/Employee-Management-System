@@ -1,0 +1,8 @@
+{
+    "table": {
+        "profile_image": "प्रोफ़ाइल छवि",
+        "employee_name": "कर्मचारी का नाम",
+        "employee_age": "कर्मचारी की उम्र",
+        "employee_salary": "कर्मचारी का वेतन"
+    }
+}
