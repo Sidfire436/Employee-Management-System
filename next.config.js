@@ -1,9 +1,13 @@
-/**
- * @type {import('next').NextConfig}
- */
+/** @type {import('next').NextConfig} */
 const nextConfig = {
-    /* config options here */
-    output: 'export',
-  }
-   
-  module.exports = nextConfig
+    reactStrictMode: true,
+    distDir: "build",
+    output: "export",
+    trailingSlash: true,
+    images: {
+      unoptimized: true,
+    },
+  };
+  
+  module.exports = nextConfig;
+  
